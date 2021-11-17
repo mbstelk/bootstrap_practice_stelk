@@ -1,0 +1,29 @@
+body {
+	font-style: Georgia, sans-serif;
+}
+
+header {
+	background-color:  forestgreen;
+	font-size: 18px;
+  	padding-top: 10px;
+ 	padding-bottom: 10px;
+  	padding-left: 10%;
+  	padding-right: 10%;
+  	margin-bottom: 15px;
+}
+
+h1 {
+	font-style: italic;
+	color: darkred;
+  	font-size: 40px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 1.5rem;
+}
+
+img {
+	width: 100%;
+	height: 70%;
+}
